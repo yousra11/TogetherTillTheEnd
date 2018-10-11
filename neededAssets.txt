@@ -1,10 +1,12 @@
+git remote add TogetherTillTheEnd https://github.com/punkrock1000/TogetherTillTheEnd.git
 Level 1: Cemetery
 	Environment:
 		Tombstone
 		Tree (with dark leaves)
 	Enemies:
 		Bat
-		Skeleton
+		Skeleton => wielding swords or lances
+		Goblin archer => separate assets for the arrows they throw
 
 Level 1: Hell - Limbo
 	Enemies:
