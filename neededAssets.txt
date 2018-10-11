@@ -1,0 +1,33 @@
+Level 1: Cemetery
+	Environment:
+		Tombstone
+		Tree (with dark leaves)
+	Enemies:
+		Bat
+		Skeleton
+
+Level 1: Hell - Limbo
+	Enemies:
+		Wandering Souls:
+			-Dancers (death couple)
+			-Dead Businessman
+	
+Level 3: Hell - Gluttony
+	Items:
+		Food
+
+Level 4: Hell - Greed Circle
+	Environment:
+		Golden Throne
+		Golden Statues
+	Items:
+		Coins
+		Chests
+	Enemies:
+		Golden Skeleton
+
+Level 5: Hell - Anger and Violence Circles
+
+Level 9: Hell - Treachery
+	Environment:
+		Lava
